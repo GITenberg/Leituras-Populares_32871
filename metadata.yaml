@@ -1,0 +1,34 @@
+_repo: Leituras-Populares_32871
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Quental, Antero de
+    aliases:
+    - De Quental, Antero
+    - Tarquinio de Quental, Anthero
+    - Quental, Anthero de
+    - Tarquino do Quental, Anthero
+    birthdate: 1842
+    deathdate: 1891
+    gutenberg_agent_id: '34296'
+    url: http://www.gutenberg.org/2009/agents/34296
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Antero_de_Quental
+    - http://pt.wikipedia.org/wiki/Antero_de_Quental
+description: ''
+gutenberg_issued: '2010-06-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32871'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Essays'
+title: Leituras Populares
+url: http://www.gutenberg.org/ebooks/32871
